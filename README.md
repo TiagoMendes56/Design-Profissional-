@@ -23,10 +23,15 @@ Identidade profissional
 As atividades foram criadas e aprimoradas ao longo das aulas. Abaixo segue o registro da evolução:
 
 -Conceitos básicos.
+
 -Elementos essenciais de um currículo.
+
 -Análise de exemplos reais.
+
 -Escolha de fontes.
+
 -Harmonia visual.
+
 -A importância da clareza e objetividade em documentos profissionais.
 -Como o design influencia a percepção do recrutador.
 -Construção de uma identidade visual pessoal.
