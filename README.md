@@ -8,27 +8,27 @@ A disciplina tem como objetivo preparar o aluno para o mercado de trabalho atrav
 
 ## Tema Central
 
-Como construir um currículo profissional eficiente e visualmente bem estruturado, levando em consideração:
+- Como construir um currículo profissional eficiente e visualmente bem estruturado, levando em consideração:
 
-Conteúdo claro e objetivo
+- Conteúdo claro e objetivo
 
-Hierarquia visual
+- Hierarquia visual
 
-Tipografia e composição
+- Tipografia e composição
 
-Identidade profissional
+- Identidade profissional
 
 ## Atividades Desenvolvidas
 
-As atividades foram criadas e aprimoradas ao longo das aulas. Abaixo segue o registro da evolução:
+- As atividades foram criadas e aprimoradas ao longo das aulas. Abaixo segue o registro da evolução:
 
-Conceitos básicos.
+- Conceitos básicos.
 
-Elementos essenciais de um currículo.
+- Elementos essenciais de um currículo.
 
-Análise de exemplos reais.
+- Análise de exemplos reais.
 
-Escolha de fontes.
+- Escolha de fontes.
 
 Harmonia visual.
 
