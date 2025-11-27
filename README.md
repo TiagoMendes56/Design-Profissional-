@@ -30,10 +30,10 @@ A disciplina tem como objetivo preparar o aluno para o mercado de trabalho atrav
 
 - Escolha de fontes.
 
-Harmonia visual.
+- Harmonia visual.
 
-A importância da clareza e objetividade em documentos profissionais.
+- A importância da clareza e objetividade em documentos profissionais.
 
-Como o design influencia a percepção do recrutador.
+- Como o design influencia a percepção do recrutador.
 
-Construção de uma identidade visual pessoal.
+- Construção de uma identidade visual pessoal.
