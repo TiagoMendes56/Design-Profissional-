@@ -14,6 +14,7 @@ Entusiasta de tecnologias e apaixonado por aprender coisas novas. Sempre buscand
 <img src="https://raw.githubusercontent.com/TiagoMendes56/tiagomendes56/master/assets/icons/html5.svg" alt="HTML5" width="40" height="40" />  
 <img src="https://raw.githubusercontent.com/TiagoMendes56/tiagomendes56/master/assets/icons/css3.svg" alt="CSS3" width="40" height="40" />  
 <img src="https://raw.githubusercontent.com/TiagoMendes56/tiagomendes56/master/assets/icons/javascript.svg" alt="JavaScript" width="40" height="40" />  
+<!-- Adicione mais conforme as linguagens/ferramentas que você domina ou está aprendendo -->
 
 ## 📂 Projetos em destaque  
 
