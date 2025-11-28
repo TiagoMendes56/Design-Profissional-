@@ -73,11 +73,11 @@ Entusiasta de tecnologias e apaixonado por aprender coisas novas. Sempre em busc
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="SEU_LINK_DO_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/tiago-mendesm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:SEUEMAIL@GMAIL.COM">
+<a href="mailto:tiagomendesdf56@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -86,4 +86,3 @@ Entusiasta de tecnologias e apaixonado por aprender coisas novas. Sempre em busc
 ---
 
 > "Em constante aprendizado, sempre aberto a novos desafios."  
-
